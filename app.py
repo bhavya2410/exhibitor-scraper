@@ -14,7 +14,7 @@ st.title("Vadodara IDBF Business Scraper")
 
 start_url = st.text_input(
     "Website URL",
-    "https://vadodara.idbf.in/"
+    "https://vadodara.idbf.in/academy"
 )
 
 max_pages = st.number_input(
